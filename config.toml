@@ -1,0 +1,4 @@
+baseURL = 'http://seaspores.cloud/'
+languageCode = 'en-us'
+title = 'Seaspores'
+theme = 'ananke'
